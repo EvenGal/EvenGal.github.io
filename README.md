@@ -1,7 +1,10 @@
 # Prosjekter
-## GUI - Kalkulator Java
+### GUI - Kalkulator Java
 En kalkulator laget i Java ved hjelp av 
-
+### REST API i Java
+REST API prosjekt for å hente ut informasjon om vær
+### App for båteiere
+En del av faget IN2000. Appen henter ut farevarsler, vær og andre viktige funksjoner for båteiere på sjøen i Norge.
 
 ### Markdown
 
